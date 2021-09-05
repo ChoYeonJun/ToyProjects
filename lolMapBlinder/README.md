@@ -4,4 +4,4 @@
 ## How to use
 
 ###1.초기화면
-![alt text](https://github.com/ChoYeonJun/ToyProjects/lolMapBlinder/blob/master/step1.png?raw=true)
+![alt text](https://https://github.com/ChoYeonJun/ToyProjects/blob/master/lolMapBlinder/readme/step1.PNG?raw=true)
